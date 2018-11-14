@@ -1,0 +1,379 @@
+,project_name,filename,filepath,commit_id,parent_commit,filenumber,#different_loc
+0,Hystrix,AbstractCommand.java,hystrix-core/src/main/java/com/netflix/hystrix/AbstractCommand.java,61bb180a9d,e336976b41,308,35
+1,Hystrix,HystrixCommand.java,hystrix-core/src/main/java/com/netflix/hystrix/HystrixCommand.java,7b046ca96b,8077bcb535,2941,31
+2,Hystrix,HystrixPlugins.java,hystrix-core/src/main/java/com/netflix/hystrix/strategy/HystrixPlugins.java,0eb1589d85,ab1d2b9b75,3094,8
+3,Hystrix,TypeHelper.java,hystrix-contrib/hystrix-javanica/src/main/java/com/netflix/hystrix/contrib/javanica/utils/TypeHelper.java,c3a2282bb6,12ad3e049f,265,4
+4,Hystrix,convention.gradle,gradle/convention.gradle,05c4d0660d,61bd2b059b,3262,18
+5,RxAndroid,OperatorWeakBindingTest.java,src/test/java/rx/operators/OperatorWeakBindingTest.java,4578386b39,9f49292dd5,540,40
+6,SpongeAPI,ChatTypeMessageReceiver.java,src/main/java/org/spongepowered/api/text/channel/ChatTypeMessageReceiver.java,0477faf48f,880f5a9c52,1650,26
+7,SpongeAPI,DamageModifierTypes.java,src/main/java/org/spongepowered/api/event/cause/entity/damage/DamageModifierTypes.java,d5f1171eb1,4ca1b25aea,254,3
+8,SpongeAPI,ExtentBufferFactory.java,src/main/java/org/spongepowered/api/world/extent/ExtentBufferFactory.java,6cb5c97d25,9f1af7ee2f,698,12
+9,SpongeAPI,Location.java,src/main/java/org/spongepowered/api/world/Location.java,b34549023f,db67c60b79,9845,38
+10,SpongeAPI,NamedCause.java,src/main/java/org/spongepowered/api/event/cause/NamedCause.java,742093ceac,8c6067a96e,3922,7
+11,SpongeAPI,WeightedItem.java,src/main/java/org/spongepowered/api/util/weighted/WeightedItem.java,7ac34cb451,b9febbf0f7,5968,2
+12,WordPress Android,AztecEditorFragment.java,libs/editor/WordPressEditor/src/main/java/org/wordpress/android/editor/AztecEditorFragment.java,e117e56440,d5acd52387,10541,15
+13,WordPress Android,BlogPreferencesActivity.java,WordPress/src/main/java/org/wordpress/android/ui/prefs/BlogPreferencesActivity.java,581bdbd736,ad59f5862b,29652,199
+14,WordPress Android,CommentDetailFragment.java,WordPress/src/main/java/org/wordpress/android/ui/comments/CommentDetailFragment.java,9f46f667d4,ff0b90752b,41436,110
+15,WordPress Android,EditPostActivity.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostActivity.java,a4f628f33c,4017094e1f,16345,87
+16,WordPress Android,EditPostActivity.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostActivity.java,bac388aac9,fe5418b6a3,29927,203
+17,WordPress Android,EditPostActivity.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostActivity.java,f81a064a79,4e0c5457ed,17171,904
+18,WordPress Android,EditPostContentFragment.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostContentFragment.java,6a46eab728,c4016e640a,36615,19
+19,WordPress Android,EditPostSettingsFragment.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostSettingsFragment.java,8a0dd62ddd,051f9dce12,13387,1533
+20,WordPress Android,EditPostSettingsFragment.java,WordPress/src/main/java/org/wordpress/android/ui/posts/EditPostSettingsFragment.java,95180f868e,e0f4d27e05,20501,3
+21,WordPress Android,Emoticons.java,src/org/wordpress/android/util/Emoticons.java,dd07730b3f,9871abad7f,48728,18
+22,WordPress Android,MediaGridAdapter.java,WordPress/src/main/java/org/wordpress/android/ui/media/MediaGridAdapter.java,bbb14b9f1c,f6dfe991ff,16577,116
+23,WordPress Android,MediaGridFragment.java,WordPress/src/main/java/org/wordpress/android/ui/media/MediaGridFragment.java,39cc123910,ce5d91bde4,36538,54
+24,WordPress Android,MediaPreviewActivity.java,WordPress/src/main/java/org/wordpress/android/ui/media/MediaPreviewActivity.java,42d683d7c2,ca9948ec54,2402,45
+25,WordPress Android,MediaUploadService.java,WordPress/src/main/java/org/wordpress/android/ui/media/services/MediaUploadService.java,60203060f7,59a1cc8e21,27174,9
+26,WordPress Android,MySiteFragment.java,WordPress/src/main/java/org/wordpress/android/ui/main/MySiteFragment.java,545a6b59e9,871590ce14,33861,53
+27,WordPress Android,NotificationsActivity.java,src/org/wordpress/android/ui/notifications/NotificationsActivity.java,52d140158d,b935f694d8,46954,69
+28,WordPress Android,NotificationsDetailActivity.java,WordPress/src/main/java/org/wordpress/android/ui/notifications/NotificationsDetailActivity.java,61b4f76f1f,99c1dba0ad,19367,66
+29,WordPress Android,PlansActivity.java,WordPress/src/main/java/org/wordpress/android/ui/plans/PlansActivity.java,f48f9f7f44,42b8b7b613,24859,105
+30,WordPress Android,Post.java,src/org/wordpress/android/models/Post.java,cba9acd129,8f6707db01,43054,8
+31,WordPress Android,PostPreviewActivity.java,WordPress/src/main/java/org/wordpress/android/ui/posts/PostPreviewActivity.java,2118626497,2af8988d1c,17481,26
+32,WordPress Android,PostViewsModel.java,WordPress/src/main/java/org/wordpress/android/ui/stats/models/PostViewsModel.java,fff8b132ac,05e01003d2,38017,15
+33,WordPress Android,PostsListAdapter.java,WordPress/src/main/java/org/wordpress/android/ui/posts/adapters/PostsListAdapter.java,16d14c1a6b,dd046e5f92,32313,60
+34,WordPress Android,PostsListAdapter.java,WordPress/src/main/java/org/wordpress/android/ui/posts/adapters/PostsListAdapter.java,2f9b731165,9200bbeff0,33134,434
+35,WordPress Android,PostsListFragment.java,WordPress/src/main/java/org/wordpress/android/ui/posts/PostsListFragment.java,65863e83d2,ccfefe6478,33571,49
+36,WordPress Android,PublicizeAccountChooserDialogFragment.java,WordPress/src/main/java/org/wordpress/android/ui/publicize/PublicizeAccountChooserDialogFragment.java,5472f16485,23b4fe9fa3,23238,75
+37,WordPress Android,ReaderActivity.java,src/org/wordpress/android/ui/reader/ReaderActivity.java,e9e2b779d6,8698b0de93,47628,337
+38,WordPress Android,ReaderPostAdapter.java,WordPress/src/main/java/org/wordpress/android/ui/reader/adapters/ReaderPostAdapter.java,284caf89cf,7611bf0bd8,22215,50
+39,WordPress Android,ReaderPostAdapter.java,WordPress/src/main/java/org/wordpress/android/ui/reader/adapters/ReaderPostAdapter.java,2fba3bd280,946188beb9,31403,24
+40,WordPress Android,ReaderPostListFragment.java,WordPress/src/main/java/org/wordpress/android/ui/reader/ReaderPostListFragment.java,755fb7bc80,0d9cb12376,37517,10
+41,WordPress Android,ReaderPostListFragment.java,src/org/wordpress/android/ui/reader/ReaderPostListFragment.java,8119eb1864,53f911b4a6,45740,4
+42,WordPress Android,ReaderPostListFragment.java,WordPress/src/main/java/org/wordpress/android/ui/reader/ReaderPostListFragment.java,a78fd060bf,b75748b91a,36378,41
+43,WordPress Android,ReaderPostPagerActivity.java,WordPress/src/main/java/org/wordpress/android/ui/reader/ReaderPostPagerActivity.java,4a413cf758,db88b989dd,41945,45
+44,WordPress Android,SingleLineListFragment.java,src/org/wordpress/android/ui/notifications/SingleLineListFragment.java,257fe4e275,ca80358922,53281,32
+45,WordPress Android,SitePickerActivity.java,WordPress/src/main/java/org/wordpress/android/ui/SitePickerActivity.java,affb16f699,1fed16ab64,37131,13
+46,WordPress Android,StatsBarGraphFragment.java,WordPress/src/main/java/org/wordpress/android/ui/stats/StatsBarGraphFragment.java,88921b4d33,2daa6273c1,42615,98
+47,WordPress Android,StatsReferrersFragment.java,WordPress/src/main/java/org/wordpress/android/ui/stats/StatsReferrersFragment.java,8537872035,2593ce8fca,30025,15
+48,WordPress Android,StatsReferrersFragment.java,WordPress/src/main/java/org/wordpress/android/ui/stats/StatsReferrersFragment.java,966863a194,17cd5cd483,39901,176
+49,WordPress Android,StatsService.java,WordPress/src/main/java/org/wordpress/android/ui/stats/service/StatsService.java,0716acbc3a,db3699b6c3,1771,15
+50,WordPress Android,StatsService.java,WordPress/src/main/java/org/wordpress/android/ui/stats/service/StatsService.java,3c2109b599,f68587e29d,40353,348
+51,WordPress Android,StatsTagsAndCategoriesFragment.java,WordPress/src/main/java/org/wordpress/android/ui/stats/StatsTagsAndCategoriesFragment.java,9303a8c6b8,6502064592,38520,253
+52,WordPress Android,StatsVisitorsAndViewsFragment.java,WordPress/src/main/java/org/wordpress/android/ui/stats/StatsVisitorsAndViewsFragment.java,2bc3e44f08,f872216a40,2663,167
+53,WordPress Android,ThemeBrowserActivity.java,WordPress/src/main/java/org/wordpress/android/ui/themes/ThemeBrowserActivity.java,63d4f695a8,9a27aec56a,31558,260
+54,WordPress Android,ThemeSearchFragment.java,WordPress/src/main/java/org/wordpress/android/ui/themes/ThemeSearchFragment.java,089118bf50,b604361431,30627,35
+55,WordPress Android,UploadService.java,WordPress/src/main/java/org/wordpress/android/ui/uploads/UploadService.java,c5d0fff907,446cd39bda,7206,12
+56,WordPress Android,WordPressDB.java,src/org/wordpress/android/WordPressDB.java,45da180b30,c0beae0b00,51618,15
+57,WordPress Android,WordPressDB.java,src/org/wordpress/android/WordPressDB.java,76db30d885,ae76461dc9,52944,46
+58,WordPress Android,WordPressDB.java,WordPress/src/main/java/org/wordpress/android/WordPressDB.java,7ab1c3e772,e16e0d9560,31284,84
+59,WordPress Android,WordPressMediaUtils.java,WordPress/src/main/java/org/wordpress/android/ui/media/WordPressMediaUtils.java,4ac632d4b5,613f103a2a,34355,95
+60,WordPress Android,build.gradle,WordPress/build.gradle,1b73112a48,5045d6e14c,12129,21
+61,WordPress Android,build.gradle,build.gradle,96402e9c17,975e0ed40e,49348,11
+62,WordPress Android,build.gradle,build.gradle,afec115e1a,aef1f28f08,42712,162
+63,WordPress Android,comment_detail_fragment.xml,res/layout/comment_detail_fragment.xml,e3c03f9430,8149919bce,47980,117
+64,WordPress Android,editPost.java,src/org/wordpress/android/editPost.java,d4d7798feb,43ba7b5b0d,57142,7
+65,WordPress Android,media_settings_activity.xml,WordPress/src/main/res/layout/media_settings_activity.xml,d1059f57ad,0397d4a551,8657,18
+66,WordPress Android,moderateCommentsTab.java,src/org/wordpress/android/moderateCommentsTab.java,698ead07db,7c5905037a,57912,88
+67,WordPress Android,plugin_detail_activity.xml,WordPress/src/main/res/layout/plugin_detail_activity.xml,57daddc408,c9da9f34c8,7224,61
+68,WordPress Android,reader_blog_info_view.xml,WordPress/src/main/res/layout/reader_blog_info_view.xml,51afbc3f81,54a2e1b226,42082,36
+69,WordPress Android,stats_expandable_list_fragment.xml,WordPress/src/main/res/layout/stats_expandable_list_fragment.xml,62d635c537,cc2a0a8328,38391,36
+70,WordPress Android,stats_list_cell.xml,res/layout/stats_list_cell.xml,578f3d3dec,8395cc7547,47154,37
+71,WordPress Android,strings.xml,res/values-it/strings.xml,0ea63b32cc,8d30f5c30f,45017,238
+72,WordPress Android,strings.xml,WordPress/src/main/res/values-fr/strings.xml,1a8fa654f0,f17aa0be03,16910,796
+73,WordPress Android,strings.xml,WordPress/src/main/res/values-th/strings.xml,1d11fa7c50,1fb44d273f,21050,923
+74,WordPress Android,strings.xml,WordPress/src/main/res/values-de/strings.xml,28cea190a7,300a6dc696,8024,857
+75,WordPress Android,strings.xml,WordPress/src/main/res/values-az/strings.xml,2fe52ba417,7b72f6afe2,25117,341
+76,WordPress Android,strings.xml,WordPress/src/main/res/values-gd/strings.xml,2fe52ba417,7b72f6afe2,25131,396
+77,WordPress Android,strings.xml,WordPress/src/main/res/values-el/strings.xml,76e3b66513,8258a0184a,13949,850
+78,WordPress Android,strings.xml,WordPress/src/main/res/values-pl/strings.xml,a8b2f2e027,28cea190a7,8014,858
+79,WordPress Android,strings.xml,WordPress/src/main/res/values-sv/strings.xml,a8b2f2e027,28cea190a7,8016,819
+80,WordPress Android,strings.xml,WordPress/src/main/res/values-en-rCA/strings.xml,b890d713c2,ea2d224e5b,13337,1207
+81,WordPress Android,strings.xml,WordPress/src/main/res/values-ru/strings.xml,b962fb7e1e,9af1484bb8,14775,770
+82,WordPress Android,strings.xml,WordPress/src/main/res/values-tr/strings.xml,eff9dcd83d,2618187ccb,18357,1112
+83,WordPress Android,strings.xml,WordPress/src/main/res/values-sv/strings.xml,ffb28185c5,b0540cdb11,15234,1019
+84,WordPress Android,viewComment.java,src/org/wordpress/android/viewComment.java,560bff6e56,4c501859a3,57659,19
+85,Butterknife,AllTheThingsTest.java,butterknife/src/test/java/butterknife/internal/AllTheThingsTest.java,ec778ad8cb,7f0f4f09d0,1258,29
+86,Butterknife,BindingClass.java,butterknife-compiler/src/main/java/butterknife/compiler/BindingClass.java,8d7f081b80,a41f025250,531,3
+87,CrateDB,AssertingLeafReader.java,sql/src/test/java/org/apache/lucene/index/AssertingLeafReader.java,01fceb3e62,e931f63575,3072,617
+88,CrateDB,BlobRecoverySource.java,blob/src/main/java/org/elasticsearch/indices/recovery/BlobRecoverySource.java,930aa57042,0f9fba25fe,27760,336
+89,CrateDB,BulkShardProcessor.java,sql/src/main/java/org/elasticsearch/action/bulk/BulkShardProcessor.java,3fe0ab62e7,f870f8fff5,34431,119
+90,CrateDB,CHANGES.txt,CHANGES.txt,a855d66ba7,5795826cee,15659,46
+91,CrateDB,CHANGES.txt,CHANGES.txt,dc1dd02f3a,3d2fa0d197,39663,2
+92,CrateDB,CopyIntegrationTest.java,sql/src/test/java/io/crate/integrationtests/CopyIntegrationTest.java,cc6c3f91fd,2a5853f5f9,19599,64
+93,CrateDB,CrateCircuitBreakerService.java,sql/src/main/java/io/crate/breaker/CrateCircuitBreakerService.java,7c1133685b,8a87f14839,10992,140
+94,CrateDB,CreateTableAnalysis.java,sql/src/main/java/io/crate/analyze/CreateTableAnalysis.java,cfc3344f44,7740b54c74,34807,199
+95,CrateDB,DistanceFunctionTest.java,sql/src/test/java/io/crate/operation/scalar/geo/DistanceFunctionTest.java,f156649432,b11237d696,34619,18
+96,CrateDB,Filter.java,sql/src/main/java/io/crate/planner/operators/Filter.java,e42a78dddf,5b608408a3,2198,5
+97,CrateDB,InformationSchemaService.java,sql/src/main/java/org/cratedb/service/InformationSchemaService.java,2e2d9818e2,3f3a32e71d,43042,116
+98,CrateDB,InvalidTableNameException.java,sql/src/main/java/io/crate/exceptions/InvalidTableNameException.java,10d27642a7,d332c537f8,8688,2
+99,CrateDB,JobExecutionContextTest.java,sql/src/test/java/io/crate/jobs/JobExecutionContextTest.java,a4ae4d2728,bc1bf17883,25030,11
+100,CrateDB,PartitionName.java,core/src/main/java/io/crate/PartitionName.java,1010c5660d,93fd9c140a,31420,108
+101,CrateDB,PlanNode.java,sql/src/main/java/io/crate/planner/plan/PlanNode.java,1129cd26ec,83095cecca,40730,24
+102,CrateDB,Planner.java,sql/src/main/java/io/crate/planner/Planner.java,acbaa867eb,0026bd1560,31334,230
+103,CrateDB,PlannerTest.java,sql/src/test/java/io/crate/planner/PlannerTest.java,411367755f,8.31E+14,31351,166
+104,CrateDB,QueryStats.java,enterprise/jmx-monitoring/src/main/java/io/crate/beans/QueryStats.java,c5d73ef825,f5238b3023,544,45
+105,CrateDB,RegexMatcherTest.java,sql/src/test/java/io/crate/operation/scalar/regex/RegexMatcherTest.java,af282bc90d,6750b8bdaf,33022,7
+106,CrateDB,RelationNormalizer.java,sql/src/main/java/io/crate/analyze/relations/RelationNormalizer.java,8c761ca341,c8884e4b55,10797,346
+107,CrateDB,SQLGrammarTokenManager.java,sql/src/main/java/org/cratedb/sql/parser/parser/SQLGrammarTokenManager.java,b488e2df06,ec00dff5e9,43114,1946
+108,CrateDB,SQLTransportExecutor.java,sql/src/test/java/io/crate/testing/SQLTransportExecutor.java,383d390614,5b458889d8,26787,35
+109,CrateDB,Statement.g,sql-parser/src/main/java/io/crate/sql/parser/Statement.g,446549829,c5f5677a94,35270,68
+110,CrateDB,TransportSQLActionTest.java,sql/src/test/java/org/cratedb/integrationtests/TransportSQLActionTest.java,7d5e914b76,795d5d1e24,44000,36
+111,CrateDB,TransportSQLReduceHandler.java,sql/src/main/java/org/cratedb/action/TransportSQLReduceHandler.java,3d976f8fc5,09f2ab9d81,41988,104
+112,CrateDB,UpdateConsumer.java,sql/src/main/java/io/crate/planner/consumer/UpdateConsumer.java,09443007c1,67a694a70b,19903,8
+113,CrateDB,build.gradle,sql/build.gradle,ef1e9b5904,79efedd0b4,43681,6
+114,CrateDB,set.txt,docs/sql/reference/set.txt,0413cdeec2,d16c593a7a,33397,188
+115,JabRef,BasePanel.java,src/java/net/sf/jabref/BasePanel.java,e3c653c505,f475a2472e,55636,51
+116,JabRef,complex.bib,src/test/resources/testbib/complex.bib,fbc57073f6,8980713f22,2239,36
+117,JabRef,DoiResolutionTest.java,src/test/java/org/jabref/logic/importer/fetcher/DoiResolutionTest.java,9e2c010ba6,9475442557,3668,5
+118,JabRef,DroppedFileHandler.java,src/java/net/sf/jabref/external/DroppedFileHandler.java,c4919c4172,c541f1b0e0,50684,379
+119,JabRef,EntryEditor.java,src/java/net/sf/jabref/EntryEditor.java,76773e6892,c147cc922b,53591,1437
+120,JabRef,EntryTableModel.java,src/java/net/sf/jabref/EntryTableModel.java,a7808fe7d4,51f5b9419e,51971,24
+121,JabRef,EntryTableTransferHandler.java,src/java/net/sf/jabref/groups/EntryTableTransferHandler.java,9ff174146a,0d00a26278,50726,2
+122,JabRef,ExternalTab.java,src/main/java/net/sf/jabref/ExternalTab.java,0f0aa00483,01641580cf,38254,35
+123,JabRef,GroupsHelp.html,src/help/GroupsHelp.html,3688e97895,08013bce48,52369,239
+124,JabRef,GUIGlobals.java,src/java/net/sf/jabref/GUIGlobals.java,edb018546a,f0bc829308,55981,39
+125,JabRef,ImportFormats.java,src/main/java/net/sf/jabref/gui/importer/ImportFormats.java,06d0753b8f,63baf6f442,15547,19
+126,JabRef,ImportMenuItem.java,src/main/java/net/sf/jabref/importer/ImportMenuItem.java,e7d56051ef,ca4e82979c,31753,2
+127,JabRef,JabRef_de.properties,src/main/resources/l10n/JabRef_de.properties,7a6b7692da,0ee9f00064,6105,30
+128,JabRef,JabRef_en.properties,src/resource/JabRef_en.properties,a4617e92f5,6217d73cdb,44292,38
+129,JabRef,JabRef_es.properties,src/main/resources/l10n/JabRef_es.properties,5611ce0bbf,82b5b7cc70,20523,178
+130,JabRef,JabRef_fr.properties,src/main/resources/l10n/JabRef_fr.properties,a3d7c504da,1cc3493d9b,10188,13
+131,JabRef,JabRef_ja.properties,src/main/resources/l10n/JabRef_ja.properties,4152573bef,a968afc298,12158,457
+132,JabRef,JabRef_ja.properties,src/main/resources/l10n/JabRef_ja.properties,42f670237c,00ac6d8b43,3234,17
+133,JabRef,JabRef_nl.properties,src/main/resources/l10n/JabRef_nl.properties,8258ddcff6,627f59a687,13306,164
+134,JabRef,JabRef_no.properties,src/resource/JabRef_no.properties,0691b7f0fd,3a4695e5ca,44367,342
+135,JabRef,JabRef_sv.properties,src/main/resources/l10n/JabRef_sv.properties,4152573bef,a968afc298,12163,2870
+136,JabRef,JabRef_tr.properties,src/main/resources/l10n/JabRef_tr.properties,94f3d138ab,e75f6da022,13826,92
+137,JabRef,JabRef_zh.properties,src/resource/JabRef_zh.properties,c95b1eaf46,ad7eede90b,45082,519
+138,JabRef,JabRefFrame.java,src/main/java/org/jabref/gui/JabRefFrame.java,4e85103a65,26bb54598a,149,1615
+139,JabRef,JabRefFrame.java,src/main/java/org/jabref/gui/JabRefFrame.java,d7d00a8f5d,b246b9ce53,2779,135
+140,JabRef,JabRefPreferences.java,src/main/java/net/sf/jabref/preferences/JabRefPreferences.java,2e9e7c89f9,a52d657226,9326,254
+141,JabRef,ManageJournalsPanel.java,src/java/net/sf/jabref/journals/ManageJournalsPanel.java,8991d4aea7,de70a2e4e5,52015,2
+142,JabRef,RegExpFileSearch.java,src/main/java/net/sf/jabref/external/RegExpFileSearch.java,60e554082a,32a64a6e22,20095,6
+143,JabRef,RemoteListener.java,src/main/java/net/sf/jabref/remote/RemoteListener.java,3f39d6ccd5,11dbd36f28,37926,69
+144,JabRef,RightClickMenu.java,src/java/net/sf/jabref/RightClickMenu.java,a9e89063b1,c6f00894ee,53359,12
+145,JabRef,SidePaneManager.java,src/java/net/sf/jabref/SidePaneManager.java,34ffe32ac4,ab2da3bc83,50552,165
+146,JabRef,StringAddChange.java,src/java/net/sf/jabref/collab/StringAddChange.java,59850dae3d,16f9c94be1,49127,13
+147,Openmicroscopy,AgentEventListener.java,SRC/org/openmicroscopy/shoola/env/event/AgentEventListener.java,0243fdd2ba,e5924527fa,101681,2
+148,Openmicroscopy,BorderListener.java,SRC/org/openmicroscopy/shoola/env/ui/tdialog/BorderListener.java,0243fdd2ba,e5924527fa,101740,2
+149,Openmicroscopy,BrowserControl.java,SRC/org/openmicroscopy/shoola/agents/imviewer/browser/BrowserControl.java,e5924527fa,8eee37fac5,102222,2
+150,Openmicroscopy,ButtonMenu.java,SRC/org/openmicroscopy/shoola/util/ui/ButtonMenu.java,0243fdd2ba,e5924527fa,101828,2
+151,Openmicroscopy,CategoryEventHandler.java,SRC/org/openmicroscopy/shoola/agents/browser/ui/CategoryEventHandler.java,580456d8d5,748c1fc6c3,116037,19
+152,Openmicroscopy,ChainPaletteCanvas.java,SRC/org/openmicroscopy/shoola/agents/chainbuilder/piccolo/ChainPaletteCanvas.java,0325665c5e,bb508b4a18,114543,29
+153,Openmicroscopy,ChannelComponent.java,components/common/src/org/openmicroscopy/omero/model/ChannelComponent.java,c1de1e50e4,c69d196330,111392,32
+154,Openmicroscopy,ChannelMetadataLoader.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/ChannelMetadataLoader.java,e5924527fa,8eee37fac5,102010,2
+155,Openmicroscopy,ChannelMetadataLoader.java,SRC/org/openmicroscopy/shoola/agents/imviewer/ChannelMetadataLoader.java,e5924527fa,8eee37fac5,102191,2
+156,Openmicroscopy,ColoredButton.java,SRC/org/openmicroscopy/shoola/util/ui/ColoredButton.java,0243fdd2ba,e5924527fa,101830,2
+157,Openmicroscopy,Colors.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/Colors.java,e5924527fa,8eee37fac5,102012,2
+158,Openmicroscopy,ColourSliderUI.java,SRC/org/openmicroscopy/shoola/util/ui/colourpicker/ColourSliderUI.java,0243fdd2ba,e5924527fa,101862,2
+159,Openmicroscopy,ContainersManager.java,SRC/org/openmicroscopy/shoola/agents/treeviewer/browser/ContainersManager.java,0243fdd2ba,e5924527fa,101488,2
+160,Openmicroscopy,DataFilter.java,SRC/org/openmicroscopy/shoola/agents/dataBrowser/DataFilter.java,631cf62fb7,29d1af182c,90406,12
+161,Openmicroscopy,DataManagerCtrl.java,SRC/org/openmicroscopy/shoola/agents/datamng/DataManagerCtrl.java,bd2f75302e,dceffb4051,117546,15
+162,Openmicroscopy,DataServicesFactory.java,SRC/org/openmicroscopy/shoola/env/data/DataServicesFactory.java,0243fdd2ba,e5924527fa,101624,2
+163,Openmicroscopy,DatasetEditorBar.java,SRC/org/openmicroscopy/shoola/agents/datamng/editors/DatasetEditorBar.java,efeca03dc7,4b0b5cb302,115842,30
+164,Openmicroscopy,DBPatchCheck.java,components/server/src/ome/services/util/DBPatchCheck.java,44c92c045d,02a9e19179,82273,2
+165,Openmicroscopy,DialogControl.java,SRC/org/openmicroscopy/shoola/env/ui/tdialog/DialogControl.java,0243fdd2ba,e5924527fa,101742,2
+166,Openmicroscopy,EmptyIterator.java,components/common/src/ome/util/EmptyIterator.java,b3c826b6ba,4a09d5adc2,108856,2
+167,Openmicroscopy,EventMethodInterceptor.java,components/server/src/ome/tools/hibernate/EventMethodInterceptor.java,0b108e0539,db4135820d,106774,9
+168,Openmicroscopy,ExecutionsModel.java,SRC/org/openmicroscopy/shoola/agents/executions/ui/model/ExecutionsModel.java,a3137dab26,67e28dac9a,114963,49
+169,Openmicroscopy,Executor.java,components/server/src/ome/services/util/Executor.java,bcb0abbadf,c0f9ccbea4,79836,4
+170,Openmicroscopy,experimenter_form.html,components/tools/OmeroWeb/omeroweb/webadmin/templates/webadmin/experimenter_form.html,00cf615784,8cf4c317c5,54550,62
+171,Openmicroscopy,FilterContext.java,SRC/org/openmicroscopy/shoola/env/data/util/FilterContext.java,71e382cfe7,335461a3bb,90602,25
+172,Openmicroscopy,FindPaneUI.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/clipboard/finder/FindPaneUI.java,181dd1b9fe,1f177c3e62,107883,73
+173,Openmicroscopy,GraphicsPaneUI.java,SRC/org/openmicroscopy/shoola/agents/imviewer/rnd/GraphicsPaneUI.java,eaf482579d,7cd56ca86c,105674,79
+174,Openmicroscopy,GuiCommonElements.java,components/tools/OmeroImporter/src/ome/formats/importer/gui/GuiCommonElements.java,844e0fde44,cb858152d4,62226,11
+175,Openmicroscopy,HACKING.txt,docs/HACKING.txt,026f330f12,9570ef7419,111696,73
+176,Openmicroscopy,hibernate.xml,components/server/web/WEB-INF/hibernate.xml,1cb5fafb45,bde919057a,111232,2
+177,Openmicroscopy,HierarchyBrowsingView.java,SRC/org/openmicroscopy/shoola/env/data/views/HierarchyBrowsingView.java,2880e77547,bf09ce283d,112331,13
+178,Openmicroscopy,Images_From_ROIs.py,components/tools/OmeroPy/scripts/omero/util_scripts/Images_From_ROIs.py,dc79bd0db3,a8ed540925,49622,12
+179,Openmicroscopy,IntensityValuesDialog.java,SRC/org/openmicroscopy/shoola/agents/measurement/view/IntensityValuesDialog.java,52d1aeb940,2f64b00b79,93791,10
+180,Openmicroscopy,layout.css,components/tools/OmeroWeb/omeroweb/webclient/static/webclient/css/layout.css,d85d0f8045,c7eaf66080,1631,52
+181,Openmicroscopy,LayoutFactory.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/layout/LayoutFactory.java,e5924527fa,8eee37fac5,102129,2
+182,Openmicroscopy,LightAdminRolesTest.java,components/tools/OmeroJava/test/integration/LightAdminRolesTest.java,30c714a74e,2d9e014ce8,2716,10
+183,Openmicroscopy,login.html,components/tools/OmeroWeb/omeroweb/webadmin/templates/webadmin/login.html,f5b3ad5dfc,2972c25eff,47739,3
+184,Openmicroscopy,ManagedRepositoryTest.java,components/tools/OmeroJava/test/integration/ManagedRepositoryTest.java,c674ea575d,f1bd8e4ebf,3870,17
+185,Openmicroscopy,OMERO3__5__data.sql,sql/psql/OMERO3__5__data.sql,c2ceaff4fc,29607e7503,94701,5
+186,Openmicroscopy,parameters.cpp,components/tools/OmeroCpp/test/unit/parameters.cpp,8d69a7f72a,58a4c504e9,85330,19
+187,Openmicroscopy,PixelsData.java,components/blitz/src/pojos/PixelsData.java,9956ac2d54,6965ca225a,21309,60
+188,Openmicroscopy,Pojo.template,Xml/xsd-fu/trunk/templates/Pojo.template,c012f37d2c,714f6caf29,66499,17
+189,Openmicroscopy,ReclassifyImages.java,SRC/org/openmicroscopy/shoola/agents/classifier/events/ReclassifyImages.java,41a49c76f0,580456d8d5,116034,2
+190,Openmicroscopy,RepositoryDaoImpl.java,components/blitz/src/ome/services/blitz/repo/RepositoryDaoImpl.java,289626d77a,5bf7ef4582,18817,51
+191,Openmicroscopy,ROIReader.java,components/insight/SRC/org/openmicroscopy/shoola/util/roi/io/ROIReader.java,bb6b6f111d,802a1d6f1c,10998,4
+192,Openmicroscopy,SelectionWizardUI.java,components/insight/SRC/org/openmicroscopy/shoola/agents/util/SelectionWizardUI.java,b6d53a2abb,0f9b8963f3,26789,48
+193,Openmicroscopy,TestCompositeBatchCall.java,TEST/org/openmicroscopy/shoola/env/data/views/TestCompositeBatchCall.java,0243fdd2ba,e5924527fa,101912,2
+194,Openmicroscopy,TinyFrame.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/tframe/TinyFrame.java,4da8ad4a2d,f030b53780,112393,11
+195,Openmicroscopy,TreeViewNode.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/treeview/TreeViewNode.java,7f25de5c43,a8f6889481,95523,7
+196,Openmicroscopy,UpdateFilter.java,components/server/src/ome/tools/hibernate/UpdateFilter.java,0039ef3c66,985ebdd8ee,107669,3
+197,Openmicroscopy,ZoomOutAction.java,SRC/org/openmicroscopy/shoola/agents/hiviewer/actions/ZoomOutAction.java,e5924527fa,8eee37fac5,102054,2
+198,Presto,AbstractTestHiveClient.java,presto-hive/src/test/java/com/facebook/presto/hive/AbstractTestHiveClient.java,cac0b06fc5,dd8a576640,66257,91
+199,Presto,AbstractTestHiveClient.java,presto-hive/src/test/java/com/facebook/presto/hive/AbstractTestHiveClient.java,f196f769f5,dcd9e7e185,50898,63
+200,Presto,AggregationNode.java,presto-main/src/main/java/com/facebook/presto/sql/planner/plan/AggregationNode.java,e986bb5490,cda20b6521,19542,113
+201,Presto,Analyzer.java,presto-main/src/main/java/com/facebook/presto/sql/analyzer/Analyzer.java,608035b2fa,9fe94e8816,67879,5
+202,Presto,BenchmarkSuite.java,presto-main/src/test/java/com/facebook/presto/benchmark/BenchmarkSuite.java,f585a83199,e706ef9c3c,65979,21
+203,Presto,BlockBuilder.java,src/main/java/com/facebook/presto/BlockBuilder.java,0b92d8696e,c17292ee7b,73528,96
+204,Presto,BlockBuilder.java,src/main/java/com/facebook/presto/BlockBuilder.java,be0ec1c775,75f19fccae,73517,2
+205,Presto,BooleanMaxAggregation.java,presto-main/src/main/java/com/facebook/presto/operator/aggregation/BooleanMaxAggregation.java,e1cc5e5413,d1a1a7baee,60782,150
+206,Presto,CompactionSetCreator.java,presto-raptor/src/main/java/com/facebook/presto/raptor/storage/CompactionSetCreator.java,34e18229dc,5421b5fc05,42910,2
+207,Presto,DatabaseStorageManager.java,presto-main/src/main/java/com/facebook/presto/metadata/DatabaseStorageManager.java,77b746fd47,a936207510,72034,16
+208,Presto,DecimalOperators.java,presto-main/src/main/java/com/facebook/presto/type/DecimalOperators.java,c50bbfd352,3ffae435a0,18981,65
+209,Presto,DoubleApproximatePercentileAggregation.java,presto-main/src/main/java/com/facebook/presto/operator/aggregation/DoubleApproximatePercentileAggregation.java,e1cc5e5413,d1a1a7baee,60787,387
+210,Presto,DualTable.java,presto-main/src/main/java/com/facebook/presto/metadata/DualTable.java,f8e3fa6adb,c169d40934,66689,96
+211,Presto,HiveTableHandle.java,presto-hive/src/main/java/com/facebook/presto/hive/HiveTableHandle.java,ca5c6ecbd2,95546391a4,66385,7
+212,Presto,ImportClientFactory.java,presto-main/src/main/java/com/facebook/presto/split/ImportClientFactory.java,309783111a,518c8e16a7,71041,19
+213,Presto,JdbcConnector.java,presto-base-jdbc/src/main/java/com/facebook/presto/plugin/jdbc/JdbcConnector.java,ad394c8f97,4ed06d97c2,28323,2
+214,Presto,JoinCompiler.java,presto-main/src/main/java/com/facebook/presto/sql/gen/JoinCompiler.java,b3924c86e8,33028a85b9,52592,16
+215,Presto,LocalQueryRunner.java,presto-main/src/test/java/com/facebook/presto/util/LocalQueryRunner.java,03eeadc622,ba4fefe467,63843,21
+216,Presto,MergeLimits.java,presto-main/src/main/java/com/facebook/presto/sql/planner/iterative/rule/MergeLimits.java,44fd6d5255,3284774a39,14791,9
+217,Presto,MetadataManager.java,presto-main/src/main/java/com/facebook/presto/metadata/MetadataManager.java,88b42d41b8,3e6eca2968,24401,69
+218,Presto,NewHashBuilderOperator.java,presto-main/src/main/java/com/facebook/presto/noperator/NewHashBuilderOperator.java,0b05bc0e82,bba27a4b68,63814,4
+219,Presto,OperatorContext.java,presto-main/src/main/java/com/facebook/presto/operator/OperatorContext.java,51320bb2b4,dd5984cbc6,44742,10
+220,Presto,PeriodicImportRunnable.java,presto-main/src/main/java/com/facebook/presto/importer/PeriodicImportRunnable.java,652ef15f2d,e2208fbce3,67160,18
+221,Presto,pom.xml,presto-server/pom.xml,3d5c184245,22d0c35701,52657,32
+222,Presto,QueryContext.java,presto-main/src/main/java/com/facebook/presto/memory/QueryContext.java,69b2129021,0f3377b478,6676,5
+223,Presto,SqlDistinctSingleField.java,presto-main/src/test/java/com/facebook/presto/benchmark/SqlDistinctSingleField.java,c153d2a4fa,742906f505,68807,2
+224,Presto,SqlTaskExecution.java,presto-main/src/main/java/com/facebook/presto/execution/SqlTaskExecution.java,4879643c6f,d665ad5364,7961,7
+225,Presto,StageStats.java,presto-main/src/main/java/com/facebook/presto/execution/StageStats.java,258637c4e3,0b05bc0e82,63683,201
+226,Presto,StatisticsAssertion.java,presto-tests/src/main/java/com/facebook/presto/tests/statistics/StatisticsAssertion.java,071946382c,2e07650a02,5026,89
+227,Presto,SwapAdjacentWindowsBySpecifications.java,presto-main/src/main/java/com/facebook/presto/sql/planner/iterative/rule/SwapAdjacentWindowsBySpecifications.java,44fd6d5255,3284774a39,14806,9
+228,Presto,SystemSplitManager.java,presto-main/src/main/java/com/facebook/presto/connector/system/SystemSplitManager.java,76d521d56c,b03a43f320,39451,21
+229,Presto,TaskExecutor.java,presto-main/src/main/java/com/facebook/presto/execution/TaskExecutor.java,60716b23c8,1fb5be6ae3,63555,136
+230,Presto,TaskResource.java,presto-main/src/main/java/com/facebook/presto/server/TaskResource.java,3e0e849836,2fc59a828e,52688,24
+231,Presto,TestAccessControlManager.java,presto-main/src/test/java/com/facebook/presto/security/TestAccessControlManager.java,88b42d41b8,3e6eca2968,24403,36
+232,Presto,TestArrayOperators.java,presto-main/src/test/java/com/facebook/presto/type/TestArrayOperators.java,1cb3c109a5,c5a2258b1d,31761,8
+233,Presto,TestArrayOperators.java,presto-main/src/test/java/com/facebook/presto/type/TestArrayOperators.java,8088788aa4,fddf5d8fae,4192,53
+234,Presto,TestInterpretedFilterFunction.java,presto-main/src/test/java/com/facebook/presto/sql/planner/TestInterpretedFilterFunction.java,df6188062d,5f9e8779bb,70300,151
+235,Presto,TestLocalQueries.java,presto-main/src/test/java/com/facebook/presto/TestLocalQueries.java,c7316e390a,96d8c9f710,68481,2
+236,Presto,TestLocalQueriesSampled.java,presto-tests/src/test/java/com/facebook/presto/tests/TestLocalQueriesSampled.java,466524d9c6,d7a4381654,55540,8
+237,Presto,TestSerDeUtils.java,presto-hive/src/test/java/com/facebook/presto/hive/util/TestSerDeUtils.java,27e6b3ee8e,dcd8b83c3c,46011,10
+238,Presto,TransformSpatialPredicateToJoin.java,presto-main/src/main/java/com/facebook/presto/sql/planner/iterative/rule/TransformSpatialPredicateToJoin.java,51e6a49647,314cfe1aae,3645,84
+239,Presto,TypedSet.java,presto-main/src/main/java/com/facebook/presto/operator/aggregation/TypedSet.java,4c0bdaae6d,d81c2f6fc6,41214,70
+240,Presto,TypeRegistry.java,presto-main/src/main/java/com/facebook/presto/type/TypeRegistry.java,cf3f9ca86c,ceea6c4d2d,30477,291
+241,Presto,Util.java,presto-main/src/main/java/com/facebook/presto/sql/planner/iterative/rule/Util.java,7fcf9d4c0b,410c63c715,13991,12
+242,Spring Boot,AbstractWebFluxEndpointHandlerMapping.java,spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/endpoint/web/reactive/AbstractWebFluxEndpointHandlerMapping.java,1d39feffea,dc935fba48,6806,199
+243,Spring Boot,appendix-application-properties.adoc,spring-boot-docs/src/main/asciidoc/appendix-application-properties.adoc,986275c73d,e3498edc81,37473,808
+244,Spring Boot,appendix-executable-jar-format.adoc,spring-boot-project/spring-boot-docs/src/main/asciidoc/appendix-executable-jar-format.adoc,59bc74614b,96e3976d98,10738,49
+245,Spring Boot,BasicErrorControllerIntegrationTests.java,spring-boot-autoconfigure/src/test/java/org/springframework/boot/autoconfigure/web/BasicErrorControllerIntegrationTests.java,a1e0f01103,f918bf9c11,40754,28
+246,Spring Boot,ConfigurationMetadataRepositoryJsonBuilder.java,spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataRepositoryJsonBuilder.java,9ebe15232e,6fdcdd888b,43171,33
+247,Spring Boot,CouchbaseAutoConfiguration.java,spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/couchbase/CouchbaseAutoConfiguration.java,e67f2e2983,5fa752a37b,33313,32
+248,Spring Boot,EndpointRequestTests.java,spring-boot-project/spring-boot-actuator-autoconfigure/src/test/java/org/springframework/boot/actuate/autoconfigure/security/servlet/EndpointRequestTests.java,89e42d40c5,7d1faa1c88,3437,5
+249,Spring Boot,FreeMarkerAutoConfiguration.java,spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/freemarker/FreeMarkerAutoConfiguration.java,5127614d59,761b6e3229,54173,61
+250,Spring Boot,GraphiteProperties.java,spring-boot-actuator-autoconfigure/src/main/java/org/springframework/boot/actuate/autoconfigure/metrics/export/graphite/GraphiteProperties.java,e59d70ea03,86926bf0e5,13654,79
+251,Spring Boot,HealthEndpointTests.java,spring-boot-actuator/src/test/java/org/springframework/boot/actuate/endpoint/HealthEndpointTests.java,ee16332745,e92cb115e3,14935,33
+252,Spring Boot,howto.adoc,spring-boot-docs/src/main/asciidoc/howto.adoc,9f998d6191,0389fbae8b,12932,6
+253,Spring Boot,ManagementServerProperties.java,spring-boot-project/spring-boot-actuator-autoconfigure/src/main/java/org/springframework/boot/actuate/autoconfigure/web/server/ManagementServerProperties.java,afba8fed79,5328508421,7938,4
+254,Spring Boot,ProjectInfoAutoConfiguration.java,spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/info/ProjectInfoAutoConfiguration.java,a3f3de223f,644ae2c21a,33361,3
+255,Spring Boot,README.md,README.md,9e7c9121d5,77455ec3dc,60161,20
+256,Spring Boot,RepackageTask.java,spring-boot-tools/spring-boot-gradle-plugin/src/main/groovy/org/springframework/boot/gradle/repackage/RepackageTask.java,72a2e5bc02,965c16d93f,52119,42
+257,Spring Boot,RunCommand.java,spring-boot-cli/src/main/java/org/springframework/boot/cli/command/run/RunCommand.java,bd74c3d327,e578ace7d7,25515,4
+258,Spring Boot,RunProcessCommand.java,spring-boot-cli/src/main/java/org/springframework/boot/cli/command/shell/RunProcessCommand.java,b884a73396,240788862e,54251,4
+259,Spring Boot,ServerProperties.java,spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/web/ServerProperties.java,0b36ba97b3,2169bbbc9b,40653,274
+260,Spring Boot,SimpleRabbitListenerContainerFactoryConfigurer.java,spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/amqp/SimpleRabbitListenerContainerFactoryConfigurer.java,6eddf1b372,0f38031f93,18391,51
+261,Spring Boot,SpringApplicationContextLoader.java,spring-boot/src/main/java/org/springframework/boot/test/SpringApplicationContextLoader.java,24f95b975d,2e7aa4685b,48923,25
+262,Spring Boot,WebOperation.java,spring-boot-project/spring-boot-actuator/src/main/java/org/springframework/boot/actuate/endpoint/web/WebOperation.java,1d39feffea,dc935fba48,6802,39
+263,Square OkHttp,HttpTransport.java,src/main/java/libcore/net/http/HttpTransport.java,04d742bd3d,f3d956e25b,7122,39
+264,Square Retrofit,pom.xml,retrofit-converters/gson/pom.xml,eac2c5f719,ad683db827,1540,10
+265,Apache Storm,ChannelHandler.java,external/sql/storm-sql-runtime/src/jvm/org/apache/storm/sql/runtime/ChannelHandler.java,71acf9b78f,093c7923a6,7155,2
+266,Apache Storm,CheckpointSpout.java,storm-core/src/jvm/backtype/storm/spout/CheckpointSpout.java,d9a0698f07,40a1c7e059,9863,6
+267,Apache Storm,Client.java,storm-client/src/jvm/org/apache/storm/messaging/netty/Client.java,bc4c480705,ab7b4ca773,2650,47
+268,Apache Storm,defaults.yaml,conf/defaults.yaml,c5e7a0d0f1,2812e511c0,16818,11
+269,Apache Storm,DefaultSchedulingPriorityStrategy.java,storm-server/src/main/java/org/apache/storm/scheduler/resource/strategies/priority/DefaultSchedulingPriorityStrategy.java,5f0abb21c8,5d95e71394,3245,96
+270,Apache Storm,EsIndexBoltTest.java,external/storm-elasticsearch/src/test/java/org/apache/storm/elasticsearch/bolt/EsIndexBoltTest.java,3094baf200,3400c7db4b,12661,2
+271,Apache Storm,Experiment.java,storm-core/test/jvm/backtype/storm/scheduler/resource/Experiment.java,9d3c864cdc,3f55feef43,10778,32
+272,Apache Storm,GraphGrouper.java,storm-client/src/jvm/org/apache/storm/trident/graph/GraphGrouper.java,8b34c6e7d1,b26a62fde8,1719,2
+273,Apache Storm,LocalStateTest.java,storm-server/src/test/java/org/apache/storm/LocalStateTest.java,f1c0bcbed1,1d8a9b6243,1060,14
+274,Apache Storm,pom.xml,integration-test/pom.xml,84a4314d96,de1d468592,3630,2
+275,Apache Storm,RedisCommandsInstanceContainer.java,external/storm-redis/src/main/java/org/apache/storm/redis/common/container/RedisCommandsInstanceContainer.java,e3f5b138eb,81ec15d109,614,2
+276,Apache Storm,SampleOpenTsdbTridentTopology.java,examples/storm-opentsdb-examples/src/main/java/org/apache/storm/opentsdb/SampleOpenTsdbTridentTopology.java,b254ede46a,4eb65075ad,5808,4
+277,Apache Storm,ThroughputVsLatency.java,examples/storm-starter/src/jvm/org/apache/storm/starter/ThroughputVsLatency.java,b254ede46a,4eb65075ad,5850,3
+278,Apache Storm,UpdateWordCount.java,examples/storm-mongodb-examples/src/main/java/org/apache/storm/mongodb/topology/UpdateWordCount.java,b254ede46a,4eb65075ad,5802,4
+279,Apache Storm,Worker.java,storm-client/src/jvm/org/apache/storm/daemon/worker/Worker.java,bc4c480705,ab7b4ca773,2633,200
+280,ACTIVEMQ,StompNIOTransport.java,activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompNIOTransport.java,a9e7e9405,8141baacef,445,1
+281,ACTIVEMQ,StompSubscription.java,activemq-stomp/src/main/java/org/apache/activemq/transport/stomp/StompSubscription.java,0be8b63fd,1c141eae40,2163,4
+282,ACTIVEMQ,SubQueueSelectorCacheBroker.java,activemq-broker/src/main/java/org/apache/activemq/plugin/SubQueueSelectorCacheBroker.java,33dded13d,5eeb62a6be,1794,15
+283,ACTIVEMQ,TestBrokerConnectionDuplexExcludedDestinations.java,activemq-core/src/test/java/org/apache/activemq/usecases/TestBrokerConnectionDuplexExcludedDestinations.java,d185430ff,3da13732ec,273,4
+284,CAMEL,ConsumerMarshallingRouteTest.java,components/camel-spring-ws/src/test/java/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest.java,1ddca536257,b50425c37e,455,17
+285,CAMEL,JmsConfiguration.java,components/camel-jms/src/main/java/org/apache/camel/component/jms/JmsConfiguration.java,b33458e5b29,cc91edca1d,1344,8
+286,DERBY,BaseTestCase.java,java/testing/org/apache/derbyTesting/junit/BaseTestCase.java,2e74f0581,c6ed9c5c51,5279,26
+287,DERBY,BasicEmbeddedDataSource40.java,java/engine/org/apache/derby/jdbc/BasicEmbeddedDataSource40.java,b004dff2b,d89b65120b,5736,18
+288,DERBY,BLOBTest.java,java/testing/org/apache/derbyTesting/functionTests/tests/jdbcapi/BLOBTest.java,31ba30408,0886254a14,1407,20
+289,DERBY,CreateTriggerNode.java,java/engine/org/apache/derby/impl/sql/compile/CreateTriggerNode.java,31aacb151,a30c19a9f0,4659,191
+290,DERBY,EmbedResultSet.java,java/engine/org/apache/derby/impl/jdbc/EmbedResultSet.java,5c2052228,6b5f2d8ee5,4098,4
+291,DERBY,FileContainer.java,java/engine/org/apache/derby/impl/store/raw/data/FileContainer.java,333569448,25dc795f33,3288,21
+292,DERBY,NetworkServerControlClientCommandTest.java,java/testing/org/apache/derbyTesting/functionTests/tests/derbynet/NetworkServerControlClientCommandTest.java,950fe4418,8f5d472c48,4830,41
+293,DERBY,update-with-jdbc4,tools/jdbc4/update-with-jdbc4,f1a587f4d,01bfbca43f,1865,12
+294,GERONIMO,AbstractHandler.java,applications/console-standard/src/java/org/apache/geronimo/console/jmsmanager/wizard/AbstractHandler.java,8dc13eeb80,0cec62cfc4,188,17
+295,GERONIMO,AbstractWebModuleTest.java,plugins/jetty8/geronimo-jetty8/src/test/java/org/apache/geronimo/jetty8/AbstractWebModuleTest.java,cf3df1021f,2228c28062,2635,5
+296,GERONIMO,ConnectionTrackingCoordinatorProxyTest.java,modules/geronimo-connector/src/test/java/org/apache/geronimo/connector/outbound/connectiontracking/ConnectionTrackingCoordinatorProxyTest.java,8ff742b70f,878013ab43,809,31
+297,GERONIMO,DatabasePoolPortlet.java,plugins/system-database/sysdb-portlets/src/main/java/org/apache/geronimo/console/databasemanager/wizard/DatabasePoolPortlet.java,dad4b52796,a3a65c573a,1834,7
+298,GERONIMO,EJBAnnotationHelper.java,plugins/j2ee/geronimo-j2ee-builder/src/main/java/org/apache/geronimo/j2ee/deployment/annotation/EJBAnnotationHelper.java,fd8e25d32f,ec794c95c1,1520,95
+299,GERONIMO,JettyContainerImpl.java,modules/geronimo-jetty6/src/main/java/org/apache/geronimo/jetty6/JettyContainerImpl.java,300fa284e7,635c09f4b9,805,20
+300,GERONIMO,NamedUPCredentialLoginModule.java,modules/geronimo-security/src/main/java/org/apache/geronimo/security/jaas/NamedUPCredentialLoginModule.java,138e82a955,ca449c7fe9,1038,14
+301,GERONIMO,PluginInstallerGBean.java,modules/geronimo-system/src/main/java/org/apache/geronimo/system/plugin/PluginInstallerGBean.java,6da2391d97,1d0c0e5f1a,935,63
+302,GERONIMO,PluginInstallerGBean.java,framework/modules/geronimo-plugin/src/main/java/org/apache/geronimo/system/plugin/PluginInstallerGBean.java,79b0e569c3,d309794646,1898,2
+303,GERONIMO,pom.xml,modules/geronimo-j2ee-builder/pom.xml,b42fc4990b,451ef1258d,538,47
+304,GERONIMO,pom.xml,plugingroups/framework/pom.xml,c0d62c44b4,c4b4f0b8d2,1532,8
+305,GERONIMO,Processor.java,modules/installer-support/src/java/com/izforge/izpack/panels/Processor.java,076dc387f0,41363f9382,321,3
+306,GERONIMO,PropertiesFileLoginModule.java,modules/geronimo-security/src/main/java/org/apache/geronimo/security/realm/providers/PropertiesFileLoginModule.java,138e82a955,ca449c7fe9,978,61
+307,HADOOP COMMON,FileUtil.java,src/java/org/apache/hadoop/fs/FileUtil.java,f65c32c494,3b36a584a8,846,5
+308,HADOOP COMMON,HBaseTestCase.java,src/test/org/apache/hadoop/hbase/HBaseTestCase.java,2cc1c9f65b,361f74c0c2,471,12
+309,HADOOP COMMON,HMaster.java,src/java/org/apache/hadoop/hbase/HMaster.java,ec2d29c902,e41859593b,448,60
+310,HADOOP COMMON,HMaster.java,src/java/org/apache/hadoop/hbase/HMaster.java,ec9a568764,114d67c614,186,169
+311,HADOOP COMMON,Server.java,src/java/org/apache/hadoop/ipc/Server.java,c244f17090,2113078b6e,565,151
+312,HADOOP COMMON,TestFileCreation.java,src/test/org/apache/hadoop/dfs/TestFileCreation.java,6b5e10863f,f9ba373b63,1053,5
+313,HADOOP COMMON,TestMultipleUpdates.java,src/contrib/hbase/src/test/org/apache/hadoop/hbase/TestMultipleUpdates.java,107c0e2972,5ddbf98ddc,355,10
+314,HADOOP COMMON,TestRegionServerAbort.java,src/test/org/apache/hadoop/hbase/TestRegionServerAbort.java,8f3b423b73,6aab1c914f,498,6
+315,HBASE,AssignmentManager.java,hbase-server/src/main/java/org/apache/hadoop/hbase/master/assignment/AssignmentManager.java,672c440b9f,76057aab62,2612,81
+316,HBASE,AssignmentManager.java,hbase-server/src/main/java/org/apache/hadoop/hbase/master/AssignmentManager.java,cbdc9fcb8a,55645c351e,2097,16
+317,HBASE,CatalogJanitor.java,hbase-server/src/main/java/org/apache/hadoop/hbase/master/CatalogJanitor.java,c8da39429c,e792d570a9,2168,9
+318,HBASE,ClassSize.java,src/java/org/apache/hadoop/hbase/util/ClassSize.java,627ef9e3a1,09843e100b,1722,3
+319,HBASE,ClientScanner.java,hbase-client/src/main/java/org/apache/hadoop/hbase/client/ClientScanner.java,20189c258c,d92fcdd620,1026,7
+320,HBASE,ColumnTracker.java,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/ColumnTracker.java,30eb01f496,bc4b9eddde,5240,25
+321,HBASE,FSHDFSUtils.java,hbase-server/src/main/java/org/apache/hadoop/hbase/util/FSHDFSUtils.java,ac97504dc5,92e2089d65,5119,52
+322,HBASE,FSHLog.java,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/wal/FSHLog.java,5c16b34e32,9f43a3bea6,1128,24
+323,HBASE,FSTableDescriptors.java,hbase-server/src/main/java/org/apache/hadoop/hbase/util/FSTableDescriptors.java,0aca51e89c,c3a7f2f3bb,638,44
+324,HBASE,HBaseFsck.java,hbase-server/src/main/java/org/apache/hadoop/hbase/util/HBaseFsck.java,f73a68178f,38943ba7d5,5182,49
+325,HBASE,HBaseFsckRepair.java,src/main/java/org/apache/hadoop/hbase/util/HBaseFsckRepair.java,092bdbbea6,b38e1992dd,4006,4
+326,HBASE,HBaseServer.java,hbase-server/src/main/java/org/apache/hadoop/hbase/ipc/HBaseServer.java,1048d15c6a,d115205c13,4842,13
+327,HBASE,Memcache.java,src/java/org/apache/hadoop/hbase/regionserver/Memcache.java,373761483f,dbd74f2f9a,4520,108
+328,HBASE,MetaUtils.java,src/java/org/apache/hadoop/hbase/util/MetaUtils.java,efe6adae26,4c60597897,1633,9
+329,HBASE,MutableHistogram.java,hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib/MutableHistogram.java,c3370fc507,bf13941592,1845,10
+330,HBASE,ServerShutdownHandler.java,src/main/java/org/apache/hadoop/hbase/master/handler/ServerShutdownHandler.java,883ec67336,d738315143,4655,54
+331,HBASE,StoreFile.java,hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/StoreFile.java,564fc2e7c3,2c270de896,4804,7
+332,HBASE,WAL.java,hbase-server/src/main/java/org/apache/hadoop/hbase/wal/WAL.java,5c16b34e32,9f43a3bea6,1130,6
+333,MAHOUT,Ax.scala,spark/src/main/scala/org/apache/mahout/sparkbindings/blas/Ax.scala,0b564c71e,fb54de3ff2,199,9
+334,MAHOUT,build-reuters.sh,examples/bin/build-reuters.sh,fc0ecc2df,fb171d41f9,290,35
+335,MAHOUT,CDbwEvaluator.java,utils/src/main/java/org/apache/mahout/clustering/cdbw/CDbwEvaluator.java,1bb9546ee,1ce47b660e,271,43
+336,MAHOUT,SequenceFilesFromMailArchives.java,integration/src/main/java/org/apache/mahout/text/SequenceFilesFromMailArchives.java,31f58654d,fcc3260b5a,37,15
+337,MAHOUT,SparkEngine.scala,spark/src/main/scala/org/apache/mahout/sparkbindings/SparkEngine.scala,c34e8a84c,3c88f50432,78,34
+338,OPENJPA,ClassMetaData.java,openjpa-kernel/src/main/java/org/apache/openjpa/meta/ClassMetaData.java,64528e607,302530ec46,343,2
+339,OPENJPA,DistributedStoreQuery.java,openjpa-slice/src/main/java/org/apache/openjpa/slice/jdbc/DistributedStoreQuery.java,574d55986,0e6a3bd79d,1359,5
+340,OPENJPA,JDBCStoreManager.java,openjpa-jdbc/src/main/java/org/apache/openjpa/jdbc/kernel/JDBCStoreManager.java,3653a710c,cdcdf366f7,2,2
+341,OPENJPA,JPQLExpressionBuilder.java,openjpa-kernel/src/main/java/org/apache/openjpa/kernel/jpql/JPQLExpressionBuilder.java,656373551,0425305049,297,4
+342,OPENJPA,LoggingConnectionDecorator.java,openjpa-lib/src/main/java/org/apache/openjpa/lib/jdbc/LoggingConnectionDecorator.java,4aa4aea33,285091d249,517,84
+343,OPENJPA,PreparedStatementManagerImpl.java,openjpa-jdbc/src/main/java/org/apache/openjpa/jdbc/kernel/PreparedStatementManagerImpl.java,044764a39,c49f0e17d6,1336,12
+344,OPENJPA,Proxies.java,openjpa-kernel/src/main/java/org/apache/openjpa/util/Proxies.java,071e69889,5655a9b462,578,2
+345,OPENJPA,Proxies.java,openjpa-kernel/src/main/java/org/apache/openjpa/util/Proxies.java,4f9de8e36,9f326c0f8b,240,1
+346,PIG,build.xml,build.xml,27f74912e,1a2b4f3a02,750,45
+347,PIG,FileBasedOutputSizeReader.java,src/org/apache/pig/backend/hadoop/executionengine/mapReduceLayer/FileBasedOutputSizeReader.java,d6d2bca86,27f74912e9,478,4
+348,PIG,MapReduceLauncher.java,src/org/apache/pig/backend/hadoop/executionengine/mapReduceLayer/MapReduceLauncher.java,551960d73,3b0e6d56f3,16,10
+349,PIG,MRCompiler.java,src/org/apache/pig/backend/hadoop/executionengine/mapReduceLayer/MRCompiler.java,7464821fe,1ef4ad194c,305,16
+350,PIG,MultiQueryOptimizer.java,src/org/apache/pig/backend/hadoop/executionengine/mapReduceLayer/MultiQueryOptimizer.java,d6d2bca86,27f74912e9,483,2
+351,PIG,MultiStorage.java,contrib/piggybank/java/src/main/java/org/apache/pig/piggybank/storage/MultiStorage.java,d6d2bca86,27f74912e9,421,8
+352,PIG,NodeIdGenerator.java,src/org/apache/pig/impl/plan/NodeIdGenerator.java,27f74912e,1a2b4f3a02,903,11
+353,PIG,TestDataBag.java,test/org/apache/pig/test/TestDataBag.java,d6d2bca86,27f74912e9,620,2
+354,PIG,TestEmptyInputDir.java,test/org/apache/pig/test/TestEmptyInputDir.java,27f74912e,1a2b4f3a02,986,91
+355,PIG,TestLogicalPlanBuilder.java,test/org/apache/pig/test/TestLogicalPlanBuilder.java,27f74912e,1a2b4f3a02,998,138
+356,PIG,TezDagBuilder.java,src/org/apache/pig/backend/hadoop/executionengine/tez/TezDagBuilder.java,27f74912e,1a2b4f3a02,837,44
+357,TUSCANY,.classpath,tools/eclipse/plugins/core/.classpath,df7d5d18b7,29aa28e237,1035,37
+358,TUSCANY,AtomBindingInvoker.java,modules/binding-gdata/src/main/java/org/apache/tuscany/sca/binding/gdata/provider/AtomBindingInvoker.java,f59d450800,202a476246,1066,2
+359,TUSCANY,Axis2BindingBuilder.java,modules/binding-ws-axis2/src/main/java/org/apache/tuscany/binding/axis2/Axis2BindingBuilder.java,1c314205fc,099034160d,9,6
+360,TUSCANY,Axis2ReferenceBindingProvider.java,modules/binding-ws-axis2/src/main/java/org/apache/tuscany/sca/binding/axis2/Axis2ReferenceBindingProvider.java,06f76842d6,2c72ab4e99,169,46
+361,TUSCANY,Axis2ServiceProvider.java,modules/binding-ws-axis2/src/main/java/org/apache/tuscany/sca/binding/ws/axis2/Axis2ServiceProvider.java,7f892ce8e1,a374ceb667,300,33
+362,TUSCANY,BindingWSDLGenerator.java,modules/binding-ws-wsdlgen/src/main/java/org/apache/tuscany/sca/binding/ws/wsdlgen/BindingWSDLGenerator.java,2366e9ad5e,d65c7edf04,1649,5
+363,TUSCANY,CallableReferenceImpl.java,modules/core/src/main/java/org/apache/tuscany/sca/core/context/CallableReferenceImpl.java,de9f9e9d6b,f6c578f392,212,18
+364,TUSCANY,CallableReferenceRemoteTestCase.java,itest/callablereferences/src/test/java/org/apache/tuscany/sca/itest/callableref/CallableReferenceRemoteTestCase.java,ab11f86b4b,a738c1a4ed,701,15
+365,TUSCANY,ConversationalScopeContainer.java,modules/core/src/main/java/org/apache/tuscany/sca/core/scope/ConversationalScopeContainer.java,1791fe4fcf,6cc0f26650,446,36
+366,TUSCANY,DefaultProxyFactoryExtensionPoint.java,modules/core/src/main/java/org/apache/tuscany/sca/core/invocation/DefaultProxyFactoryExtensionPoint.java,de9f9e9d6b,f6c578f392,217,28
+367,TUSCANY,DomainManagerLauncherBootstrap.java,modules/workspace-admin/src/main/java/org/apache/tuscany/sca/workspace/admin/launcher/DomainManagerLauncherBootstrap.java,91bb1f1e73,84a4f0f679,585,8
+368,TUSCANY,ExtendedConversation.java,modules/core/src/main/java/org/apache/tuscany/sca/core/conversation/ExtendedConversation.java,1791fe4fcf,6cc0f26650,443,7
+369,TUSCANY,Interface2WSDLGenerator.java,modules/binding-ws-wsdlgen/src/main/java/org/apache/tuscany/sca/binding/ws/wsdlgen/Interface2WSDLGenerator.java,e3604c640d,9a1d224df3,1611,13
+370,TUSCANY,NodeLauncherUtil.java,modules/node2-launcher/src/main/java/org/apache/tuscany/sca/node/launcher/NodeLauncherUtil.java,eef3a22465,e0284b4ef6,626,15
+371,TUSCANY,NonConversationalCallbackTestCase.java,itest/conversations-ws/src/test/java/org/apache/tuscany/sca/itest/conversational/NonConversationalCallbackTestCase.java,ab11f86b4b,a738c1a4ed,707,10
+372,TUSCANY,OSGiImplementationProvider.java,modules/implementation-osgi/src/main/java/org/apache/tuscany/sca/implementation/osgi/invocation/OSGiImplementationProvider.java,0eb993f364,79e3e6efda,889,4
+373,TUSCANY,PassByRefTestCase.java,itest/osgi-implementation/src/test/java/helloworld/passbyref/PassByRefTestCase.java,24a9a3a359,894f6e235b,347,11
+374,TUSCANY,PolicyComputationUtils.java,modules/policy/src/main/java/org/apache/tuscany/sca/policy/util/PolicyComputationUtils.java,78c297c703,3a62700e5e,1089,25
+375,TUSCANY,PolicyIntentProcessor.java,modules/policy-xml/src/main/java/org/apache/tuscany/sca/policy/xml/PolicyIntentProcessor.java,df7d5d18b7,29aa28e237,1030,3
+376,TUSCANY,PolicySetProcessor.java,modules/policy-xml/src/main/java/org/apache/tuscany/sca/policy/xml/PolicySetProcessor.java,9488c72d23,674df5a17c,1015,4
+377,TUSCANY,pom.xml,modules/binding-ws-axis2/pom.xml,c3a20fbbfc,ba8a2756e8,1277,111
