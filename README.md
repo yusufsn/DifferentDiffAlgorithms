@@ -6,11 +6,11 @@ The full dataset of the files can be found [here](https://github.com/yusufsn/dif
 
 
 ## Contents
-* dataset - a directory of the dataset
-  * 21729_files_having_different_changes.csv - the collected files that have different code changes from all targeted projects
-  * 378_random_sampled_files - the random sampled files for manual diff algorithms comparison
-* LICENSE.md - [CCO 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
-* README.md - this file
+* `dataset` - a directory of the dataset
+  * `21729_files_having_different_changes.csv` - the collected files that have different code changes from all targeted projects
+  * `378_random_sampled_files` - the random sampled files for manual diff algorithms comparison
+* `LICENSE.md` - [CCO 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+* `README.md` - this file
 
 ## Authors
 * Yusuf Sulistyo Nugroho
