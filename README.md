@@ -9,12 +9,16 @@ The full dataset of the files can be found [here](https://github.com/yusufsn/dif
 
 ## Contents
 * `dataset` - a directory of the dataset
-  * `21729_files_having_different_changes.csv` - the collected files that have different code changes from all targeted projects
+  * `21729_files_having_different_changes.csv` - RQ3: the collected files that have different code changes from all targeted projects
   * `378_random_sampled_files` - the random sampled files for manual diff algorithms comparison
-* `LICENSE.md` - [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 * `README.md` - this file
 
 ## Authors
 * Yusuf Sulistyo Nugroho
 * [Hideaki Hata](https://hideakihata.github.io/)
 * Kenichi Matsumoto
+
+## CC0 1.0 Universal
+CC0 [summary](https://creativecommons.org/publicdomain/zero/1.0/) and [legal text](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+
+Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
