@@ -2,7 +2,7 @@
 
 [https://github.com/yusufsn/DifferentDiffAlgorithms](https://github.com/yusufsn/DifferentDiffAlgorithms)
 
-This is a research artifact for the paper **How Different Are Different diff Algorithms in Git? Use --histogram for Code Changes**. This artifact is a data repository including (i) 468,311 files associated with the information of commit identity number, parent commit identity number, filepath, and project name (RQ1) (ii) 14,883 files including the information of filepath, candidate of bug-fixing commit identity number, parent commit identity number and project name (RQ2), and (iii) all 21,590 files with the information of project name, filename, filepath, commit identity number, parent commit identity number, and the number of different identified code changes (RQ3). 
+This is a research artifact for the paper **How Different Are Different diff Algorithms in Git? Use --histogram for Code Changes**. This artifact is a data repository including (i) 468,311 files associated with the information of commit identity number, parent commit identity number, filepath, and project name (RQ1); (ii) 14,883 files including the information of filepath, candidate of bug-fixing commit identity number, parent commit identity number and project name (RQ2); and (iii) all 21,590 files with the information of project name, filename, filepath, commit identity number, parent commit identity number, and the number of different identified code changes (RQ3). 
 
 
 ## Contents
