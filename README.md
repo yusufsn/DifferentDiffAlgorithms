@@ -7,9 +7,9 @@ This is a research artifact for the paper **How Different Are Different diff Alg
 
 ## Contents
 * `dataset` - a directory of the dataset
-  * `xxxx` - RQ1: all collected files from 14 CI-Java projects for Metrics comparison
-  * `xxxx` - RQ2: all collected files from 10 Apache Java projects for SZZ result comparison
-  * `21729_files_having_different_changes.csv` - RQ3: all collected files that have different code changes from all targeted projects in RQ1 and RQ2
+  * `468311_RQ1_all_CI-Java_targeted_files.csv.zip` - RQ1: all collected files from 14 CI-Java projects for Metrics comparison (.zip format)
+  * `14883_RQ2_all_apache_targeted_files.csv` - RQ2: all collected files from 10 Apache Java projects for SZZ result comparison (.csv format)
+  * `21590_RQ3_files_having_different_changes_of_all_projects.csv` - RQ3: all collected files that have different code changes from all targeted projects in RQ1 and RQ2 (.csv format)
 * `README.md` - this file
 
 ## Authors
