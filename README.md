@@ -13,7 +13,7 @@ This is a research artifact for the paper **How Different Are Different diff Alg
 * `README.md` - this file
 
 ## Authors
-* Yusuf Sulistyo Nugroho
+* [Yusuf Sulistyo Nugroho](https://yusufsn.github.io/)
 * [Hideaki Hata](https://hideakihata.github.io/)
 * Kenichi Matsumoto
 
