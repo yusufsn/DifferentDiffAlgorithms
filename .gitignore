@@ -1,0 +1,6 @@
+dataset/
+*.csv
+*.diff
+*.txt
+*.zip
+.DS_Store
