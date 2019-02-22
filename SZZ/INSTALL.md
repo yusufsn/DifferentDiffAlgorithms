@@ -20,14 +20,13 @@
 3. Change the directory into `datasource`, then clone a target repository from GitHub, e.g. `Apache ActiveMQ`.
    
    ```
-  git clone https://github.com/apache/activemq.git datasource/activemq
+   git clone https://github.com/apache/activemq.git datasource/activemq
    ```
    
 4. Run `jupyter notebook`.
 5. In the `jupyter notebook`, open all source code files in the directory `code_document`.
-6. Put the exact name of the cloned repository in the variable named `project` in all source code files, 
-   e.g. `project = "activemq"`.
-7. Only for source code file no. 01, write the bug identifier in the variable of `bugidentifier`. Different projects have different bug identifiers, e.g. `bugidentifier = "AMQ"` for `activemq` project.
-8. Run all source code files from number `00` to number `10` sequentially (run all cells).
-9. The summary results of the SZZ implementation for each project are saved in CSV format in the directory of `~/DifferentDiffAlgorithms/SZZ/project_analyses/<yourtargetedprojectname>/05_validation/05_stats/`.
-10. Repeat step 3 to 9 for different projects.
+6. Only for source code file no. 00, put the exact name of the cloned repository in the variable named `project` and the project key / bug identifier in the variable `bugidentifier`. Different projects have different bug identifiers.
+   e.g. For `Apache ActiveMQ` project -> `project = "activemq"`, `bugidentifier = "AMQ"`
+7. Run all cells in all source code files from number `00` to number `10` sequentially.
+8. The summary results of the SZZ implementation for each project are saved in CSV format in the directory of `~/DifferentDiffAlgorithms/SZZ/project_analyses/<yourtargetedprojectname>/05_validation/05_stats/`.
+9. Repeat step 3 to 8 for different projects.
