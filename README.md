@@ -8,6 +8,7 @@ This is a research artifact for the paper **How Different Are Different diff Alg
 ## Contents
 * `SZZ` - SZZ implementation. The installation and the operation procedure can be found [here](https://github.com/yusufsn/DifferentDiffAlgorithms/blob/master/SZZ/INSTALL.md)
 * `dataset` - a directory of the dataset
+  * `52_collected_papers.csv` - 52 collected papers used in our systematic mapping study (.csv format)
   * `468311_RQ1_all_CI-Java_targeted_files.csv.zip` - RQ1: all collected files from 14 CI-Java projects for Metrics comparison (.zip format)
   * `14883_RQ2_all_apache_targeted_files.csv` - RQ2: all collected files from the extracted bug-fixing commit candidates in 10 Apache Java projects for SZZ result comparison (.csv format)
   * `21590_RQ3_files_having_different_changes_of_all_projects.csv` - RQ3: all collected files that have different code changes from all targeted projects in RQ1 and RQ2 (.csv format)
