@@ -19,6 +19,9 @@ This is a research artifact for the paper **How Different Are Different diff Alg
 * [Hideaki Hata](https://hideakihata.github.io/)
 * Kenichi Matsumoto
 
+## Related Paper
+https://arxiv.org/abs/1902.02467
+
 ## MIT License for code
 Our SZZ implementation is licensed under the [MIT License](LICENSE.md).
 
