@@ -20,8 +20,8 @@ This is a research artifact for the paper **How Different Are Different diff Alg
 * Kenichi Matsumoto
 
 ## Related Paper
-https://link.springer.com/article/10.1007/s10664-019-09772-z
-https://arxiv.org/abs/1902.02467
+* [Published version](https://link.springer.com/article/10.1007/s10664-019-09772-z)
+* [ArXiv version](https://arxiv.org/abs/1902.02467)
 
 ## MIT License for code
 Our SZZ implementation is licensed under the [MIT License](LICENSE.md).
