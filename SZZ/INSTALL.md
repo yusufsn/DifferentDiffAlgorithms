@@ -1,4 +1,4 @@
-# HOW TO RUN THE SZZ IMPLEMENTATION
+# HOW TO RUN
 
 ### Requirements
 1. `python 3`
